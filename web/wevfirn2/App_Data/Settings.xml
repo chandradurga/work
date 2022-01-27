@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<HWSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <DefaultPageText1>for second</DefaultPageText1>
+  <DefaultPageText2>this the text one</DefaultPageText2>
+  <DefaultPageText3> welcome to all </DefaultPageText3>
+  <DefaultPageText4> Thankyou for coming</DefaultPageText4>
+</HWSettings>
