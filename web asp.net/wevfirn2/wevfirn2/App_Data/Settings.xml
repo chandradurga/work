@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<HWSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <DefaultPageText1>tex2</DefaultPageText1>
+  <DefaultPageText2>text1</DefaultPageText2>
+  <DefaultPageText3>welcome </DefaultPageText3>
+  <DefaultPageText4>thankyou</DefaultPageText4>
+</HWSettings>

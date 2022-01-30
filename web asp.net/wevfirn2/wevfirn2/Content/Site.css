@@ -10,6 +10,7 @@ body {
     padding-left: 313px;
     padding-right: 15px;
     padding-top: 130px;
+    background-color:lightyellow;
 }
 
 /* Set widths on the form inputs since otherwise they're 100% wide */
