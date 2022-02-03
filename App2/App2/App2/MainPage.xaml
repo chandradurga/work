@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App2.MainPage">
+     <StackLayout BackgroundColor="AliceBlue">
+        <Label Text="Simple Interest" FontFamily="Lobster" HorizontalTextAlignment="Center"  BackgroundColor="DarkBlue" HeightRequest="100"  TextColor="White" FontSize="50" Margin="0,0,0,10"/>
+
+        <Label Text=" Enter the principle amount" FontSize="20" HeightRequest="60" HorizontalTextAlignment="Center"/>
+        <Entry x:Name="UserInput"  HorizontalTextAlignment="Center"  Placeholder="Enter the Principle amount" Keyboard="Numeric" 
+               />
+        <Label Text="Rate of Interest" HorizontalTextAlignment="Center" FontSize="20"/>
+
+        <Entry x:Name="UserInput2" Placeholder="Enter the Rate of Interest"
+               HorizontalTextAlignment="Center" Keyboard="Numeric" HeightRequest="70" />
+        <Label Text="Year" HorizontalTextAlignment="Center" FontSize="20"/>
+        <Entry x:Name="year" Placeholder="year" HeightRequest="60" FontSize="20" HorizontalTextAlignment="Center"  Keyboard="Numeric" />
+
+
+        <Label Text="Interst Amount" HorizontalTextAlignment="Center" FontSize="20" HeightRequest="40" />
+
+        <Label x:Name="Ia" HorizontalTextAlignment="Center" FontSize="20" HeightRequest="60" BackgroundColor="BlanchedAlmond" />
+        <Label Text=" Total Amount" HorizontalTextAlignment="Center" FontSize="20"   HeightRequest="40"  />
+
+        <Label x:Name="Ta" HorizontalTextAlignment="Center" FontSize="20" HeightRequest="60"  BackgroundColor="BlanchedAlmond" />
+        <Button Text="Calculator" VerticalOptions="Center" Clicked="but" CornerRadius="10" Margin="10,10,10,0"  BackgroundColor="DarkBlue" TextColor="White"/>
+
+        <Button Text="Cancel" BackgroundColor="Red" HeightRequest="50" Margin="10,10,10,10" Clicked="Button_Clicked" CornerRadius="10" />
+
+
+    </StackLayout>
+</ContentPage>

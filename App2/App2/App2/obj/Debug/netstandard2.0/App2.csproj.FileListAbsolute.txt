@@ -1,0 +1,14 @@
+D:\Users\new\source\repos\2022\App2\App2\App2\bin\Debug\netstandard2.0\App2.deps.json
+D:\Users\new\source\repos\2022\App2\App2\App2\bin\Debug\netstandard2.0\App2.dll
+D:\Users\new\source\repos\2022\App2\App2\App2\bin\Debug\netstandard2.0\ref\App2.dll
+D:\Users\new\source\repos\2022\App2\App2\App2\bin\Debug\netstandard2.0\App2.pdb
+D:\Users\new\source\repos\2022\App2\App2\App2\obj\Debug\netstandard2.0\App2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\new\source\repos\2022\App2\App2\App2\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Users\new\source\repos\2022\App2\App2\App2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Users\new\source\repos\2022\App2\App2\App2\obj\Debug\netstandard2.0\App2.AssemblyInfoInputs.cache
+D:\Users\new\source\repos\2022\App2\App2\App2\obj\Debug\netstandard2.0\App2.AssemblyInfo.cs
+D:\Users\new\source\repos\2022\App2\App2\App2\obj\Debug\netstandard2.0\App2.csproj.CoreCompileInputs.cache
+D:\Users\new\source\repos\2022\App2\App2\App2\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Users\new\source\repos\2022\App2\App2\App2\obj\Debug\netstandard2.0\App2.dll
+D:\Users\new\source\repos\2022\App2\App2\App2\obj\Debug\netstandard2.0\ref\App2.dll
+D:\Users\new\source\repos\2022\App2\App2\App2\obj\Debug\netstandard2.0\App2.pdb
